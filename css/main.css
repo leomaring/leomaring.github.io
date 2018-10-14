@@ -23,7 +23,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 100;
 }
 a {
   color: {{ site.link-col }};
@@ -125,7 +125,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 100;
   color: {{ site.navbar-text-col }};
 }
 
@@ -344,6 +344,7 @@ footer .theme-by {
 .post-preview .post-title {
   font-size: 30px;
   margin-top: 0;
+  font-weight: 100;
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -383,7 +384,9 @@ footer .theme-by {
   width: 192px;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 100;
+  font-style: italic;
+  font-size: 15px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -531,6 +534,7 @@ footer .theme-by {
   }
   .intro-header .page-heading h1 {
     font-size: 80px;
+    font-weight: 100;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
@@ -600,7 +604,7 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 100;
   letter-spacing: 1px;
   padding: 10px 5px;
   background-color: #FFF;
@@ -781,4 +785,8 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+
+.navbar-custom .navbar-brand {
+  font-weight: 800;
 }
