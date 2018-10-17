@@ -368,6 +368,9 @@ footer .theme-by {
 .post-entry {
   width: 100%;
 }
+.post-entry p {
+  margin-bottom: 0;
+}
 .post-image {
   float: right;
   height: 192px;

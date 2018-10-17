@@ -2,9 +2,10 @@
 layout: post
 title: Cách để Đặt Mục tiêu theo Phương pháp SMART
 image: /img/target_smart/image.jpg
+categories: soft-skills
 ---
 
-Phương pháp SMART là một trong những công cụ phổ biến và hiệu quả nhất để đặt ra mục tiêu thực tế và có khả năng hoàn thành.Bạn có thể là người đứng đầu tổ chức gồm 300 người hay chủ doanh nghiệp nhỏ. Hay chỉ đơn giản là người muốn giảm cân. Dù là ai đi nữa, học cách đề ra mục tiêu SMART có thể nâng cao cơ hội thành công của bạn.<!--more-->
+Phương pháp SMART là một trong những công cụ phổ biến và hiệu quả nhất để đặt ra mục tiêu thực tế và có khả năng hoàn thành. Bạn có thể là người đứng đầu tổ chức gồm 300 người hay chủ doanh nghiệp nhỏ. Hay chỉ đơn giản là người muốn giảm cân. Dù là ai đi nữa, học cách đề ra mục tiêu SMART có thể nâng cao cơ hội thành công của bạn.<!--more-->
 
 ![Phương pháp SMART]({{site.url}}/img/target_smart/detail.jpg)
 
