@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Studying is the best way to make you new.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Về tôi
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Mình là một coder, sống bằng nghề code thuê để kiếm cơm, code hết ngày này qua ngày khác. Nên bàn tay gõ code đã trở nên thuần thục đến mức "tay nhanh hơn não".
 
-What else do you need?
 
-### my history
+Tuy chỉ là một thợ code, nhưng mình vẫn luôn mong muốn học hỏi và tìm hiểu để trở thành một kĩ sư phần mềm thực thụ.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Về blog này
+
+Đây là nơi để lưu lại những kiến thức cóp nhặt được trong quá trình tự học.
